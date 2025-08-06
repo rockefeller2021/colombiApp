@@ -1,0 +1,40 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+.idea/
+.vscode/
+
+# Archivos de Maven
+target/
+pom.xml.tag
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build/
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/MavenWrapperDownloader.java
+.mvn/wrapper/maven-wrapper.properties
+
+# Archivos de Spring Boot
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.log
+*.jks
+*.p12
+
+# Archivos de entorno y seguridad
+.env
+.env.local
+.env.production
+*.properties
+*.yml
+
+# Archivos de log
+*.log
+log/
+
+
+
